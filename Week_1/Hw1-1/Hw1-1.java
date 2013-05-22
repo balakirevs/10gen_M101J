@@ -1,0 +1,1 @@
+> db.hw1.findOne()
