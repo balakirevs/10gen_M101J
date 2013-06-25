@@ -80,6 +80,8 @@
 
     db.images.find({"tags":"sunrises"}).count();
 
+    answer: 45044
+
 8. public class Question8 {
 
 
